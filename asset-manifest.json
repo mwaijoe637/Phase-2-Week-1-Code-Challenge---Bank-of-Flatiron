@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mwaijoe637/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron.git/static/css/main.b46ed05a.css",
-    "main.js": "/mwaijoe637/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron.git/static/js/main.3971d532.js",
-    "static/js/453.d3943c81.chunk.js": "/mwaijoe637/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron.git/static/js/453.d3943c81.chunk.js",
-    "index.html": "/mwaijoe637/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron.git/index.html",
-    "main.b46ed05a.css.map": "/mwaijoe637/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron.git/static/css/main.b46ed05a.css.map",
-    "main.3971d532.js.map": "/mwaijoe637/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron.git/static/js/main.3971d532.js.map",
-    "453.d3943c81.chunk.js.map": "/mwaijoe637/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron.git/static/js/453.d3943c81.chunk.js.map"
+    "main.css": "/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron/static/css/main.b46ed05a.css",
+    "main.js": "/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron/static/js/main.2efc71d6.js",
+    "static/js/453.d3943c81.chunk.js": "/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron/static/js/453.d3943c81.chunk.js",
+    "index.html": "/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron/index.html",
+    "main.b46ed05a.css.map": "/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron/static/css/main.b46ed05a.css.map",
+    "main.2efc71d6.js.map": "/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron/static/js/main.2efc71d6.js.map",
+    "453.d3943c81.chunk.js.map": "/Phase-2-Week-1-Code-Challenge---Bank-of-Flatiron/static/js/453.d3943c81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b46ed05a.css",
-    "static/js/main.3971d532.js"
+    "static/js/main.2efc71d6.js"
   ]
 }
