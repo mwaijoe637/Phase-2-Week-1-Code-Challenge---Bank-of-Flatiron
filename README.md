@@ -11,6 +11,9 @@ Users see a table of the transactions.
 Users fill out and submit the form to add a new transaction. This should display the new transaction to the table no persistence mechanism is needed for this.
 Filter transactions by typing into the search bar. 
 
+## Short Video Link
+https://vimeo.com/manage/videos/945496226/privacy
+
 ## Installation
 You use git clone to be able to download the documents in the GitHub
 
